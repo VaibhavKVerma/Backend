@@ -1,4 +1,4 @@
-package com.backend.backend.auth;
+package com.backend.backend.auth.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
